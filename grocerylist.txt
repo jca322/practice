@@ -1,6 +1,8 @@
 [Produce]
 -Red Onions
 -Carrots
+-Egg
+-Noodles
 
 [Meat]
 -Chicken
