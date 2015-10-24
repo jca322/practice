@@ -2,3 +2,5 @@
 -Onions
 -Carrots
 
+[Meat]
+-Chicken
