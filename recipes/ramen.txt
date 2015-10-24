@@ -1,0 +1,9 @@
+[Ingredients]
+-Noodles
+-Egg
+-Seasoning
+
+[Instructions]
+-Soft boil egg
+-Cook noodles
+-Combine noodles, seasoning, etc.
